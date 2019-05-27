@@ -16,3 +16,9 @@
     ```
     curl "localhost:9200/_cat/indices?v"
     ```
+
+
+-  **Open Kibana dashboard**
+    ```
+    http://localhost:5601
+    ```
